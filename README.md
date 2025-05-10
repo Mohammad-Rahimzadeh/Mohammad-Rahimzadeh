@@ -4,7 +4,7 @@
 </br>
 </br>
 
-- 🌱 I’m currently learning **fastAPI**
+- 🌱 I’m currently learning **RestAPI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mohammad-Rahimzadeh](https://github.com/Mohammad-Rahimzadeh)
 
